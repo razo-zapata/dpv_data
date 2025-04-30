@@ -1,2 +1,2 @@
-# dpv_data
-Dataset containing DPV measurements
+# DPV Data
+The dataset contains WH measurements from two distributed photovoltaic systems.
